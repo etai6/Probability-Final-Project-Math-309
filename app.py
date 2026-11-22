@@ -22,7 +22,7 @@ import streamlit as st
 # --------------------------------------------------------------------------- #
 # Edit these two lines for your submission
 # --------------------------------------------------------------------------- #
-AUTHOR = "Your Name"
+AUTHOR = "Ethan Tai"
 COURSE = "Probability  ·  Washington and Lee University"
 
 # Okabe-Ito colour-blind-safe palette

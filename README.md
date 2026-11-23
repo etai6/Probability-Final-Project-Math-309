@@ -20,8 +20,5 @@ streamlit run app.py
 ## Deploy for free
 Push this folder to GitHub, then create an app at https://share.streamlit.io pointing to `app.py`.
 
-## Before you submit
-Edit `AUTHOR` and `COURSE` at the top of `app.py`.
-
 ## References
 Aldous & Diaconis (1986); Bayer & Diaconis (1992); Diaconis (1996); Levin, Peres & Wilmer, *Markov Chains and Mixing Times* (2017).
